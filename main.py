@@ -1,4 +1,8 @@
 def fibonacci(n):
+    """Fibonacci.
+
+    Args: n.
+    """
     if n <= 1:
         return n
     else:
